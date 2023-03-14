@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Lucas-Caron
-- 👀 I’m interested in fundamental physics and more particularly in the fields of quantum physics.
-- 🌱 I’m currently a student in 2nd year of master's degree QLMN (Quantum, Light, Materials and Nano Sciences) and in Magisterium of fundamental physics at Paris-Saclay university.
+- Intern at Laboratoire Charles Fabry, Quantum Optics group, "Photon" team.
 - 📫 lucas.caron@universite-paris-saclay.fr
 
 <!---
