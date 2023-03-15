@@ -1,5 +1,5 @@
 - Intern at Laboratoire Charles Fabry, Quantum Optics group, "Photon" team.
-- 📫 lucas.caron@universite-paris-saclay.fr
+- 📫 lucas.caron@institutoptique.fr 
 
 <!---
 Lucas-Caron/Lucas-Caron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
